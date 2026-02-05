@@ -4,10 +4,10 @@
 
 ## 📋 目录结构
 
-* **Simplex/**: 标准单纯形法 (Standard Simplex Method)
-* **SimDual-Eye/**: 对偶单纯形法 (Dual Simplex Method)
-* **tidudown/**: 梯度下降法 (Gradient Descent)
-* **yunchouex/**: Gomory 割平面法 (Gomory Cutting Plane Method)
+* **Simplex Method/**: 标准单纯形法 (Standard Simplex Method)
+* **Dual Simplex Method/**: 对偶单纯形法 (Dual Simplex Method)
+* **Steepest Descent/**: 梯度下降法 (Gradient Descent)
+* **Gomory Cutting/**: Gomory 割平面法 (Gomory Cutting Plane Method)
 
 ## ⚙️ 环境依赖 (Requirements)
 
